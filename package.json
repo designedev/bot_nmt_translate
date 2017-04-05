@@ -1,0 +1,15 @@
+{
+  "name": "nmt_translate_bot",
+  "version": "1.0.0",
+  "description": "translate korean to english using naver NMT translate API.",
+  "main": "papago.js",
+  "dependencies": {
+    "telegram-bot-api": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node papago.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
